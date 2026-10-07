@@ -8,10 +8,10 @@ Computer Science student · Yerevan
 
 <br>
 
-<img src="https://img.shields.io/badge/C%23-18181B?style=for-the-badge" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-18181B?style=for-the-badge&logo=dotnet&logoColor=A78BFA" alt=".NET" />
-<img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Python" />
-<img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=A78BFA" alt="C" />
+<img src="https://img.shields.io/badge/C%23-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/.NET-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C-18181B?style=for-the-badge" />
 
 <br>
 
