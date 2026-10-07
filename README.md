@@ -2,10 +2,9 @@
 
 # S M B A T
 
-**BACK-END DEVELOPMENT & SYSTEMS**
+**BACK-END DEVELOPMENT**
 
-Computer Science student in Yerevan.  
-Building with .NET. Exploring what happens under the hood.
+Computer Science student · Yerevan
 
 <br>
 
@@ -25,65 +24,26 @@ Building with .NET. Exploring what happens under the hood.
 
 <br>
 
-### Behind the code
+### About me
 
-I’m interested in how applications fit together:
-the business rules, the database, and the systems underneath.
+Bonjour!, I'm Smbat ,I enjoy learning and taking the time to understand what I’m doing:
+how the code works, why a decision makes sense, and how each part
+fits into the whole.
 
-My focus is back-end development with C# and .NET.
-I like code I can reason about—and understanding why it works.
+My focus is back-end development with C# and .NET. I’m interested
+in being part of meaningful projects, contributing alongside
+others, and learning through the problems we solve together.
 
-<br>
-
-### Selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>01 / FinanceBot</h3>
-
-<p>A collaborative project.</p>
-
-<p><a href="https://github.com/knarhar/FinanceBot"><strong>Explore repository ↗</strong></a></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>02 / TCP File Transfer</h3>
-
-<p>Network programming and file transfer in a Linux namespace test environment.</p>
-
-<p><a href="https://github.com/SmbatPTRS/TCP-File-Transfer"><strong>Explore repository ↗</strong></a></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>03 / Data Analysis</h3>
-
-<p>Exploring Yerevan’s real estate market through data analysis and machine learning.</p>
-
-<p><a href="https://github.com/SmbatPTRS/DataAnalyse"><strong>Explore repository ↗</strong></a></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>Beyond software</h3>
-
-<p>Drawing, philosophy, and anthropology.</p>
-
-<p>Different ways of understanding how people see, think, and build.</p>
-
-</td>
-</tr>
-</table>
+Outside of code, I enjoy drawing, philosophy, and anthropology.
 
 <br>
+
+---
 
 <div align="center">
-<a href="https://github.com/SmbatPTRS?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-A78BFA?style=for-the-badge&logo=github&logoColor=18181B" alt="View all repositories" />
+
+<a href="https://www.linkedin.com/in/smbat-petrosyan-103b74292/">
+<img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logoColor=18181B" alt="LinkedIn" />
 </a>
+
 </div>
