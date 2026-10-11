@@ -6,23 +6,11 @@
 
 Computer Science student · Yerevan
 
-<br>
+<div align="center">
 
-<img src="https://img.shields.io/badge/C%23-18181B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/.NET-18181B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/C-18181B?style=for-the-badge" />
-
-<br>
-
-<img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=A78BFA" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=A78BFA" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=A78BFA" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=A78BFA" alt="Git" />
+<img src="https://skillicons.dev/icons?i=cs,py,linux,git,rider,docker" alt="My Tech Stack" />
 
 </div>
-
-<br>
 
 ### About me
 
